@@ -1,0 +1,25 @@
+# Ignorer TOUT par défaut
+*
+
+# Réautoriser uniquement les fichiers et dossiers nécessaires pour GitHub
+!README.md
+!.gitignore
+!version.json
+!Nouvelles mise à jour/
+!Nouvelles mise à jour/index.php
+!Ancienne version du système/
+!Ancienne version du système/fichier_json.zip
+
+# Fichiers à NE JAMAIS commiter (sécurité)
+secret_password.php
+*.secret
+*.key
+*.log
+error_log
+version.json
+
+# Dossiers utilisateur (mods, config, etc.)
+mods/
+config/
+ressource_pack/
+
