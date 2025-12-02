@@ -2,6 +2,12 @@
 
 Un gestionnaire de fichiers PHP complet pour serveurs de Launcher Minecraft, avec interface d'administration moderne et API JSON automatique.
 
+## 📸 Aperçu
+
+![Panel d'administration](screenshot.png)
+
+*Interface moderne en mode nuit avec explorateur de fichiers intégré*
+
 ## ✨ Fonctionnalités
 
 ### 🎯 Pour le Launcher

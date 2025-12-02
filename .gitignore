@@ -5,6 +5,7 @@
 !README.md
 !.gitignore
 !version.json
+!screenshot.png
 !Nouvelles mise à jour/
 !Nouvelles mise à jour/index.php
 !Ancienne version du système/
@@ -16,7 +17,6 @@ secret_password.php
 *.key
 *.log
 error_log
-version.json
 
 # Dossiers utilisateur (mods, config, etc.)
 mods/
